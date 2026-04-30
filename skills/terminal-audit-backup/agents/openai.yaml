@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terminal Audit Backup"
+  short_description: "Audit and back up terminal settings"
+  default_prompt: "Use $terminal-audit-backup to inventory Windows terminal tools and back up settings before making changes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terminal Beautify Main"
+  short_description: "Orchestrate Windows terminal beautification"
+  default_prompt: "Use $terminal-beautify-main to audit, rebuild, and beautify a Windows terminal environment in the documented order."

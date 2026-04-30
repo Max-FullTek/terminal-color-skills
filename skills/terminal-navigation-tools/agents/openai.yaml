@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terminal Navigation Tools"
+  short_description: "Install navigation and search tools"
+  default_prompt: "Use $terminal-navigation-tools to install and wire zoxide, fzf, ripgrep, and broot into PowerShell."

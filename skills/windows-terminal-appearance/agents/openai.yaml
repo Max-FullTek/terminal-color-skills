@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Terminal Appearance"
+  short_description: "Apply Windows Terminal appearance settings"
+  default_prompt: "Use $windows-terminal-appearance to apply documented Windows Terminal fonts, acrylic, opacity, padding, and keybindings safely."

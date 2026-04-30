@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oh My Posh Setup"
+  short_description: "Install and configure Oh My Posh"
+  default_prompt: "Use $oh-my-posh-setup to install Oh My Posh, initialize prompt themes, and configure omp-theme helpers."

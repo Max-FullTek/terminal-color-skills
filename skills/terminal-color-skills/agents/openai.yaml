@@ -1,0 +1,6 @@
+interface:
+  display_name: "Terminal Color Skills"
+  short_description: "Apply bundled Windows Terminal palette"
+  default_prompt: "Use $terminal-color-skills to apply the bundled Warm Sand scheme to Windows Terminal on the current machine."
+policy:
+  allow_implicit_invocation: true

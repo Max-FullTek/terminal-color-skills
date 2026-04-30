@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerShell ReadLine Icons"
+  short_description: "Configure PSReadLine and Terminal-Icons"
+  default_prompt: "Use $powershell-readline-icons to install and configure PSReadLine and Terminal-Icons for interactive PowerShell."

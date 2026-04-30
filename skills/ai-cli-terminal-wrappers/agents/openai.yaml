@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI CLI Terminal Wrappers"
+  short_description: "Configure Codex and Copilot CLI wrappers"
+  default_prompt: "Use $ai-cli-terminal-wrappers to configure safe PowerShell wrappers for Codex CLI and GitHub Copilot CLI."

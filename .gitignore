@@ -1,0 +1,32 @@
+# Local editor and OS noise
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Local backups that may include private hostnames or tokens
+*.bak
+*.bak.*
+*.backup
+*.backup.*
+settings.json
+settings.json.*
+Microsoft.PowerShell_profile.ps1
+Microsoft.PowerShell_profile.ps1.*
+
+# Codex local state and credentials if copied here by mistake
+.codex/
+auth.json
+history.jsonl
+session_index.jsonl
+logs_*.sqlite*
+state_*.sqlite*
+.sandbox-secrets/
+
+# Environment and secret files
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.ppk

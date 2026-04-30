@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerShell Profile Core"
+  short_description: "Build the core PowerShell profile"
+  default_prompt: "Use $powershell-profile-core to rebuild the safe interactive PowerShell profile structure and PATH fallbacks."
